@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/PickerWheel/Scence/Home.unity
+    guid: cb95a8f6a01624747acad7f1cb3ec13e
+  - enabled: 1
+    path: Assets/PickerWheel/Scence/Gameplay.unity
+    guid: f6f19cab75be894429a900ab27289609
+  m_configObjects: {}
